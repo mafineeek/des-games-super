@@ -1,7 +1,7 @@
 <div align="center">
   <br />
   <p>
-    <a href="https://github.com/mafineeek/des-games-super"><img src="https://github.com/mafineeek/des-games-supper/blob/main/assets/des-games.png" width="546" alt="des-games" /></a>
+    <a href="https://github.com/mafineeek/des-games-super"><img src="https://github.com/mafineeek/des-games-super/blob/main/assets/des-games.png" width="546" alt="des-games" /></a>
   </p>
   <br/>
   <p>
